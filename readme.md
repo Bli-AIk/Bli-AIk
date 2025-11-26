@@ -2,6 +2,8 @@
 
 > Just AIk, just out of interest.
 
+---
+
 <h3 align="center"><i>Who am I?</i></h3>
 
 ```rust
@@ -28,11 +30,12 @@ impl Developer for BliAIk {
     }
 }
 ```
+---
 
 <h3 align="center"><i>Tech Stack</i></h3>
 
 <p align="center">
-  <b>Languages</b><br>
+  <b>Languages</b><br><br>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -62,6 +65,8 @@ impl Developer for BliAIk {
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
   <img src="https://img.shields.io/badge/Reaper-191919?style=for-the-badge&logo=reaper&logoColor=1DB653" />
 </p>
+
+---
 
 <h3 align="center"><i>Stats</i></h3>
 
