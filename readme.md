@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center"><i>Who am I?</i></h3>
+<h2 align="center"><i>Who am I?</i></h3>
 
 ```rust
 struct BliAIk {
@@ -32,7 +32,7 @@ impl Developer for BliAIk {
 ```
 ---
 
-<h3 align="center"><i>Tech Stack</i></h3>
+<h2 align="center"><i>Tech Stack</i></h3>
 
 <p align="center">
   <b>Languages</b><br><br>
@@ -68,7 +68,7 @@ impl Developer for BliAIk {
 
 ---
 
-<h3 align="center"><i>Stats</i></h3>
+<h2 align="center"><i>Stats</i></h3>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bli-AIk&theme=radical" alt="Bli-AIk" />
