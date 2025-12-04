@@ -7,6 +7,8 @@
 <h2 align="center"><i>Who am I?</i></h3>
 
 ```rust
+use theme::catppuccin::Mocha;
+
 struct BliAIk {
     name: "Bli-AIk",
     bio: "A paranoid code-monkey driven by pure interest.",
