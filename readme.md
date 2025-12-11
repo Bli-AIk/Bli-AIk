@@ -79,6 +79,6 @@ impl Developer for BliAIk {
 ---
 
 <p align="center">
-  <a href="https://lit.link/bliaik">Website/Resume</a> •
+  <a href="https://lit.link/bliaik">Website</a> •
   <a href="mailto:haikun2333@gmail.com">Email Me</a>
 </p>
