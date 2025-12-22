@@ -65,7 +65,7 @@ impl Developer for BliAIk {
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
   <img src="https://img.shields.io/badge/Tiled-1395D7?style=for-the-badge&logo=map&logoColor=white" />
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reaper-191919?style=for-the-badge&logo=reaper&logoColor=1DB653" />
+  <img src="https://img.shields.io/badge/bitwig-FF5A00?style=for-the-badge&logo=bitwig&logoColor=FFFFFF" />
 </p>
 
 ---
