@@ -71,6 +71,16 @@ impl Developer for BliAIk {
 
 ---
 
+<h2 align="center"><i>Interest</i></h3>
+
+<p align="center">
+  <b>Game Community</b><br><br>
+  <img src="https://img.shields.io/badge/Deltarune-Undertale-black?style=for-the-badge&labelColor=001225&logo=undertale&logoColor=ff0000" />
+  <img src="https://img.shields.io/badge/Touhou-Project-1E2569?style=for-the-badge&labelColor=C41A5B&logo=taichilang&logoColor=white" />
+</p>
+
+---
+
 <h2 align="center"><i>Stats</i></h3>
 
 <p align="center">
