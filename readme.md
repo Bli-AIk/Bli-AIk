@@ -48,8 +48,10 @@ impl Developer for BliAIk {
 <p align="center">
   <b>Frameworks & Engines</b><br><br>
   <img src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Zola-30E330?style=for-the-badge&logo=zola&logoColor=white" />
+  <img src="https://img.shields.io/badge/dioxus-2C2F3A?style=for-the-badge&logo=dioxus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/avalonia-165BFF?style=for-the-badge&logo=avaloniaui&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
@@ -58,6 +60,7 @@ impl Developer for BliAIk {
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/helix-281733?style=for-the-badge&logo=helix&logoColor=white" />
   <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
 </p>
 
