@@ -13,8 +13,8 @@ struct BliAIk {
     name: "Bli-AIk",
     bio: "A paranoid code-monkey driven by pure interest.",
     os: "Arch Linux", 
-    current_focus: ["Rust", "WGSL", "DSP", "Vue.js"],
-    working_on: "souprune",
+    current_focus: ["Lua", "Rust"],
+    working_on: "deltarune ddd",
     fun_fact: "I use Arch." // BTW
 }
 
