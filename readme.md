@@ -9,7 +9,7 @@
 ```rust
 use theme::catppuccin::Mocha;
 
-struct BliAIk {
+struct AIk {
     name: "Bli-AIk",
     bio: "A paranoid code-monkey driven by pure interest.",
     os: "Arch Linux", 
@@ -18,7 +18,7 @@ struct BliAIk {
     fun_fact: "I use Arch." // BTW
 }
 
-impl Developer for BliAIk {
+impl Developer for AIk {
     fn contact(&self) -> String {
         "haikun2333@gmail.com".to_string()
     }
