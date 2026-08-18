@@ -14,7 +14,7 @@ struct AIk {
     bio: "A paranoid code-monkey driven by pure interest.",
     os: "Arch Linux", 
     current_focus: ["Lua", "Rust"],
-    working_on: "many many many things",
+    working_on: "many, many, many things",
     fun_fact: "I use Arch." // BTW
 }
 
